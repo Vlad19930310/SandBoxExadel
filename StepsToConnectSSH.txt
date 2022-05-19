@@ -1,0 +1,12 @@
+1. ifconfig 
+2. ping  
+3. service ssh status 
+#port 22
+4. service ssh start 
+#or 
+5. sudo apt-get -insttall openssh-server 
+#and then 
+6. service ssh start
+7. cat /etc/passwd
+#look users and passwords 
+8. ssh <user><host>
