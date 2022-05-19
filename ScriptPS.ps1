@@ -1,0 +1,1 @@
+get-process | Sort-Object -Property ID | Out-File -FilePath D:\\ScriptPS.ps1
