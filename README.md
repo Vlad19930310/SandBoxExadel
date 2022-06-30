@@ -1,8 +1,8 @@
 #Task 2 Working with AWS Cloud, install Apache web server
-Create 2 instance: Linux Amazon, Linux Ubuntu with Key pair in AWS cloud
-Create VPC 
-Create subnet
-Create security group
+1. Create 2 instance: Linux Amazon, Linux Ubuntu with Key pair in AWS cloud
+2. Create VPC 
+3. Create subnet
+4. Create security group
 Configure Route Table (Destination 0.0.0.0/0, Target<your Internet Gateway>)
 Create, Attach Internet Gateway
 Configure Inbound rules: SSH:22, HTTP:80, ICMP IPv4
